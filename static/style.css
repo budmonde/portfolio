@@ -1,0 +1,24 @@
+/* Links */
+
+a {
+  color: #9AB173;
+  font-weight: 400;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  color: #758D4E;
+}
+
+/* Content */
+.col {
+  display: flex;
+  flex: 1 1 100%;
+  flex-flow: column nowrap;
+  padding: 0.2rem;
+}
+.post {
+  padding: 2rem 4rem;
+}
